@@ -4,6 +4,7 @@ Facilitation exercises for teaching/running impact mapping sessions,
 ## Facilitation Games
 
 * [Revenue Stream Map](facilitation-games/revenue-stream-map)
+* [Impact Trump Cards](facilitation-games/impact-trump-cards)
 
 ## License
 
