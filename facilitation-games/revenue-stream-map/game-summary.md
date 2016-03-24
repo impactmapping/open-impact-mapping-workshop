@@ -1,4 +1,4 @@
-# Game Name: Revenue Stream
+# Game Name: Revenue Stream Map
 
 One of the key problems facing teams new to impact mapping is jumping too fast from perceived outcomes to solutions, without considering the variety of actors involved or the multitude of solution options that could lead to the same outcome. In particular, teams often do not consider actors or stakeholders that could hinder or obstruct the progress towards the goal (such as competitors, regulators, platform providers with their own agendas). 
 
