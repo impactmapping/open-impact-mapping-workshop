@@ -47,8 +47,21 @@ When no participants have any additional cards, the last person to place the car
 
 The game continues until there are no new cards to place.
 
-The participants are allowed to create new cards as the game continues. This is to support divergent thinking.
+The participants are allowed to create new cards as the game continues, as long as they don't hold up the game -- so the best time to add new cards is while the others are playing their cards and during discussions. This is to support divergent thinking.
+
+### Rounds
+
+If the group runs out of cards, they can play another round, time-boxing the creation of initial cards and trumping again, but making sure to avoid duplicates from the earlier rounds.
+
+### Points at the end
+
+The purpose of "winning" the stack in the game is to add a competitive element which will promote divergent thinking and speed up the game, but it may also be nice to declare a final winner at the end and award a symbolic trophy, such as a chocolate bar. 
 
 ### Coordinating discussion
 
-Draw up a set of quadrants on a big sheet of paper, or a whiteboard, and label ...
+Draw up a set of quadrants on a big sheet of paper, or a whiteboard, and get the group to cluster and organise ideas. This is the convergent part of the exercise, where the group discards duplicates and chooses the first set of impacts to deal with. 
+
+The horizontal axis should reflect how much a behaviour change can help or hinder the initiative (eg left side for obstructions, right side for helpful behaviour changes, and distance from the centre reflects expected magnitude of impact).  
+
+The vertical axis reflects how quickly the impact can be observed (soon or late).
+
