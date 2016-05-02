@@ -1,7 +1,16 @@
 # Open Impact Mapping Workshop
-Facilitation exercises for teaching/running impact mapping sessions, 
+
+Facilitation exercises for teaching/running impact mapping sessions.
+
+## Educational Workshops
+
+Training materials and facilitation guides for for teaching groups about impact mapping basics:
+
+* [Concerts Online](educational-workshops/concerts-online) - interactive workshop for groups up to 30-40 people, suitable for a half-day or a full-day teaching session
 
 ## Facilitation Games
+
+Good ideas for helping a group of people produce better impact maps:
 
 * [Revenue Stream Map](facilitation-games/revenue-stream-map)
 * [Impact Trump Cards](facilitation-games/impact-trump-cards)
