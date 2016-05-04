@@ -16,9 +16,10 @@ For illustrative purposes, this assumes that the workshop starts at 9AM. Adjust 
 - 09:20 Discussion session: groups present plans
 - 09:30 Exercise: [Compare plans](#exercise-2-compare-plans)
 - 09:45 Presentation: [Behaviour change as measurement of value](#presentation-behaviour-change-as-measurement-of-value) 
-- 10:15 Exercise: [Brainstorm behaviour changes](#exercise-3-brainstorm-behaviour-changes)
+- 10:00 Exercise: [Brainstorm behaviour changes](#exercise-3-brainstorm-behaviour-changes)
+- 10:15 Discussion session: groups present ideas for behaviour changes
 - 10:30 coffee break
-- 10:40 Discussion session: groups present ideas for behaviour changes
+- 10:40 Presentation: [Impact map structure](#presentation-impact-map-structure)
 - 10:50 Exercise: [Impact map for more advertising revenue](#exercise-4-impact-map-for-advertising-revenue)
 - 11:20 Discussion session: groups present impact maps
 - 11:30 Exercise: [Propose new delivery plans](#exercise-5-propose-new-delivery-plans)
@@ -35,9 +36,10 @@ For illustrative purposes, this assumes that the workshop starts at 9AM. Adjust 
 - 09:20 Discussion session: groups present plans
 - 09:30 Exercise: [Compare plans](#exercise-2-compare-plans)
 - 09:45 Presentation: [Behaviour change as measurement of value](#presentation-behaviour-change-as-measurement-of-value) 
-- 10:15 Exercise: [Brainstorm behaviour changes](#exercise-3-brainstorm-behaviour-changes)
-- 10:30 break
-- 10:40 Discussion session: groups present ideas for behaviour changes
+- 10:00 Exercise: [Brainstorm behaviour changes](#exercise-3-brainstorm-behaviour-changes)
+- 10:15 Discussion session: groups present ideas for behaviour changes
+- 10:35 coffee break
+- 10:45 Presentation: [Impact map structure](#presentation-impact-map-structure)
 - 10:55 Exercise: [Impact map for more advertising revenue](#exercise-4-impact-map-for-advertising-revenue)
 - 11:30 Discussion session: groups present impact maps
 - 11:45 Exercise: [Propose new delivery plans](#exercise-5-propose-new-delivery-plans)
@@ -76,7 +78,7 @@ This exercise is a set-up for later exercises, there is no particular learning o
 
 Start by explaining the purpose of the exercise. As far as the participants are concerned, _this is to provide a common baseline they can use for later comparison_. 
 
-Next, introduce introducing the 'Concerts Online' company. You can show the first two slides from the [Domain Summary](slides/domain-summary.ppt) presentation while introducing the domain. Here are the key points to talk about:
+Next, introduce introducing the 'Concerts Online' company. You can show the first two slides from the [Exercises](slides/exercises.ppt) presentation while introducing the domain. Here are the key points to talk about:
 
 * First slide
   * This is a successful business, with a horrible legacy system
@@ -108,7 +110,7 @@ When talking to the groups, do not address the entire room - answer questions on
 
 The introduction shouldn't take more than five minutes, so the groups will have roughly 15 minutes to propose plans. About five minutes before the end, announce that they'll soon have to present, and ask them to write the plans down on flipcharts or post-its, so they can refer back to them later.
 
-#### Discussions
+#### Discussion guidelines
 
 If leading a smaller workshop, get individual groups to present their plans, but keep it quick and fluid so you can complete the review in 10 minutes. If people start explaining too much why they chose something, ask them to focus on the delivery plan, not the reasons behind it -- promise to come back to that later.
 
@@ -143,6 +145,44 @@ After all the groups present, find conflicting arguments -- eg two groups claimi
 
 ### Exercise 3: Brainstorm behaviour changes
 
+Impacts -- especially behaviour changes -- are a critical concept for impact mapping, and most participants of your workshop probably do not normally think about them. This exercise helps people think about impacts first, so they can start differentiating between impacts, deliverables, types of work and organisational benefits. 
+
+#### Learning objective
+
+* Understand how to describe impacts
+* Spot and avoid the most common problems when listing impacts (such as replacing them for deliverables or organisational goals)
+* Understand that prioritising impacts is much easier than prioritising features -- because they can relate to the current business objectives
+
+#### Facilitation objective
+
+* Get participants to brainstorm a list of impacts, so they can have a ready-made menu to kick start later impact mapping workshops
+* Lead participants to selecting a business objective around advertising revenue
+
+#### Mechanics
+
+Introduce the new task: the participants should work in groups to identify as many behaviour changes as possible in 15 minutes, and write them on post-its with marker pens. This is a group exercise, and the participants should discuss ideas before noting them down. 
+
+- The key is to identify whose behaviour we can impact, and what that impact is
+- Show the behaviour change slide from the [Exercises](slides/exercises.ppt) presentation, explain the typical types of behaviour changes
+- Point out that the participants don't need to worry too much about identifying exact numbers (so no need to write down "purchase 5% faster", "purchase faster" is OK). 
+- Point out the difference between "purchase" as a behaviour, and "purchase faster" as an impact, and how there might be some other impacts such as "purchase more frequently", "purchase more expensive tickets" and so on.
+- Ask the participants to use marker pens when writing ideas on post-its so they can be seen from a distance
+
+During the group discussions, go around and look for typical mistakes
+
+- People will list behaviours, not behaviour changes (eg "visit website"); get them to think about how differently
+- People will list "start doing ..." when the users are already doing it, perhaps outside our software. Eg "start inviting friends to concerts". This is already happening in the real world, so the big question is "how differently"
+- People will list software solutions (eg "start sending push notifications"); ask about whose behaviour they are changing with it instead
+
+#### Discussion guidelines
+
+Ask the participants to bring post-its to a central place - whiteboard or a wall - before taking the coffee break. Let them cluster the ideas into groups, based on the user segment/actor. After the break, go through the major ideas, and
+try to identify some common mistakes (eg software ideas, types of work, overall organisational benefits). Discuss how those things are not easily measurable. Help the participants identify the underlying behaviour changes in the group discussion. 
+
+Suggest that you can aim at achieving all those behaviour changes, but not everything is equally important. At the same time, if you can identify important behaviour changes, this will help with prioritisation. Ask the participants to review the business situation again -- users moving to mobile from desktop devices, and discuss what impacts would be important to address in such a change. Do a Now/Not Now prioritisation by crossing things out from the board -- anything not directly addressing that business change can be postponed. 
+
+Finally, discuss how addressing different impacts calls for completely different plans -- for example, choose some sales related impacts and ask the participants to suggest some important stories for that. Then select something around advertising or visiting frequently/visiting more, and ask them to suggest some stories for that.
+
 ### Exercise 4: Impact map for advertising revenue
 
 ### Exercise 5: Impact map for call centre load
@@ -152,6 +192,8 @@ After all the groups present, find conflicting arguments -- eg two groups claimi
 ## Presentation guides
 
 ### Presentation: Behaviour Change As Measurement Of Value
+
+### Presentation: Impact map structure
 
 ### Presentation: How impact maps fit in with delivery
 
