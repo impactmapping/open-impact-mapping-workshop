@@ -176,7 +176,7 @@ During the group discussions, go around and look for typical mistakes
 
 #### Discussion guidelines
 
-Ask the participants to bring post-its to a central place - whiteboard or a wall - before taking the coffee break. Let them cluster the ideas into groups, based on the user segment/actor. After the break, go through the major ideas, and
+Ask the participants to bring post-its to a central place - whiteboard or a wall. Let them cluster the ideas into groups, based on the user segment/actor. After the break, go through the major ideas, and
 try to identify some common mistakes (eg software ideas, types of work, overall organisational benefits). Discuss how those things are not easily measurable. Help the participants identify the underlying behaviour changes in the group discussion. 
 
 Suggest that you can aim at achieving all those behaviour changes, but not everything is equally important. At the same time, if you can identify important behaviour changes, this will help with prioritisation. Ask the participants to review the business situation again -- users moving to mobile from desktop devices, and discuss what impacts would be important to address in such a change. Do a Now/Not Now prioritisation by crossing things out from the board -- anything not directly addressing that business change can be postponed. 
