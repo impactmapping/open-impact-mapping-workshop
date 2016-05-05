@@ -1,6 +1,6 @@
 # Concerts Online
 
-Hands-on, interactive educational workshop, suitable for groups of up to 30-40 participants. Designed to teach the key ideas and basic technique of impact mapping. Great for a half-day or a full-day conference session, or as part of a larger educational workshop.
+Hands-on, interactive educational workshop, suitable for groups of up to 30-40 participants, but can also be organised with much larger groups. Designed to teach the key ideas and basic technique of impact mapping. Great for a half-day or a full-day conference session, or as part of a larger educational workshop.
 
 This is a workshop that Gojko Adzic and colleagues from Neuri Consulting ran for several years at various conferences, including Product Owner Survival Camps.  As of early 2016, more than two thousand people went through a variant of this workshop, so it's battle-tested. It's interactive and well paced to provide a solid introduction, motivating the participants for further study and research. 
 
