@@ -60,6 +60,8 @@ The participants will work in groups, straight from the start. The ideal group s
 
 With less than 20 people in the room (so up to 3-4 groups), you can run discussion sessions by getting each group to present their work in turn. With more groups, this will take too much time. Instead of each group presenting, give people five minutes at the start of each discussion session to walk around the room and see the results produced by other groups, then lead the discussion by pointing out the key ideas on various solutions.
 
+This workshop works best up to 30-40 people, although you can also do it with a much larger group if their expectations are just to get a nice taste of impact maps. Gojko once led a workshop with about 150 people at a conference based on the half-day variant. In the case of a very large group, it's best to have several facilitators, and run the discussion sessions as a public conversation between facilitators ('I noticed in this group....'). 
+
 ## Exercise guides
 
 ### Exercise 1: Initial Plans
