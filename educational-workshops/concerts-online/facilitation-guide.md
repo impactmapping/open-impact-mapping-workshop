@@ -139,19 +139,22 @@ Point out that you don't want them to repeat what's being proposed, just why it 
 
 In case of a large room, while the groups are discussing their plans, collect all the flipcharts/post-its with plans and move them to a central area where they could be easily observed. 
 
+#### Discussion guidelines
+
 After five minutes, get groups to sell their plans by taking turns. Before letting a group representative talk, go over to their plan, summarise it briefly, and let them sell it. Capture the key aspects they mention (eg low risk, focusing on key revenue streams..., quick) with post-its and stick next to their plans. Keep this brief and stop people if they try to go over what they plan to deliver again (this is quite common). 
 
 After all the groups present, find conflicting arguments -- eg two groups claiming that their plan is low risk, but planning to do exactly the opposite things. Point out how it's almost impossible to compare those arguments, because there's too many, and different groups claim different benefits. Finish by talking how plans based on features are difficult to compare, and that anything can be justified with unverified claims.  
 
 ### Exercise 3: Brainstorm behaviour changes
 
-Impacts -- especially behaviour changes -- are a critical concept for impact mapping, and most participants of your workshop probably do not normally think about them. This exercise helps people think about impacts first, so they can start differentiating between impacts, deliverables, types of work and organisational benefits. 
+Impacts -- especially behaviour changes -- are a critical concept for impact mapping, and most participants of your workshop probably do not normally think about them. This exercise helps people think about impacts first, so they can start differentiating between impacts, deliverables, types of work and organisational benefits. This falls into the "Concepts" part of training from the back of the room.
 
 #### Learning objective
 
 * Understand how to describe impacts
 * Spot and avoid the most common problems when listing impacts (such as replacing them for deliverables or organisational goals)
 * Understand that prioritising impacts is much easier than prioritising features -- because they can relate to the current business objectives
+* Think about Now/Not Now prioritisation
 
 #### Facilitation objective
 
@@ -176,18 +179,101 @@ During the group discussions, go around and look for typical mistakes
 
 #### Discussion guidelines
 
-Ask the participants to bring post-its to a central place - whiteboard or a wall. Let them cluster the ideas into groups, based on the user segment/actor. After the break, go through the major ideas, and
-try to identify some common mistakes (eg software ideas, types of work, overall organisational benefits). Discuss how those things are not easily measurable. Help the participants identify the underlying behaviour changes in the group discussion. 
+Ask the participants to bring post-its to a central place - whiteboard or a wall. Let them cluster the ideas into groups, based on the user segment/actor. After the break, go through the major ideas, and try to identify some common mistakes (eg software ideas, types of work, overall organisational benefits). Discuss how those things are not easily measurable. Help the participants identify the underlying behaviour changes in the group discussion. 
 
-Suggest that you can aim at achieving all those behaviour changes, but not everything is equally important. At the same time, if you can identify important behaviour changes, this will help with prioritisation. Ask the participants to review the business situation again -- users moving to mobile from desktop devices, and discuss what impacts would be important to address in such a change. Do a Now/Not Now prioritisation by crossing things out from the board -- anything not directly addressing that business change can be postponed. 
+Suggest that you can aim at achieving all those behaviour changes, but not everything is equally important. At the same time, if you can identify important behaviour changes, this will help with prioritisation. Ask the participants to review the business situation again -- users moving to mobile from desktop devices, and discuss what impacts would be important to address in such a change. Do a Now/Not Now prioritisation by crossing out anything not directly addressing the challenges of moving to mobile devices. 
 
 Finally, discuss how addressing different impacts calls for completely different plans -- for example, choose some sales related impacts and ask the participants to suggest some important stories for that. Then select something around advertising or visiting frequently/visiting more, and ask them to suggest some stories for that.
 
 ### Exercise 4: Impact map for advertising revenue
 
-### Exercise 5: Impact map for call centre load
+In this exercise, the participants create their first impact map by bringing together deliverables under behaviour changes, and refining the plans. For a half-day session, this is the crucial part, falling into the "Concrete Practice" quadrant of training from the back of the room). 
 
-### Exercise 6: Impact map for branding
+#### Learning objective
+
+* How thinking about impacts makes it easy to propose good deliverables
+* How to create impact maps
+* How to split stories using an impact map
+
+#### Facilitation objectives
+
+* Get groups to come up with alternatives to an iPhone app, that will help address the chosen business goal better
+* Help participants think about splitting deliverables (stories) by actor segment or behaviour scale, instead of just by technology
+
+#### Mechanics
+
+- Say that, given all the options from the behaviour change list, the business stakeholders decided to focus first on solving problems with advertising. 
+- Show the sixth slide from the [Exercises](slides/exercises.ppt) presentation ("We're getting a lot of customers from mobile phone browsers...")
+- Given this particular problem, ask participants to draw up an impact map
+- Hand out the [impact mapping cheat sheet](handouts/cheatsheet.doc) as a reminder for the structure
+- Explain that the business problem on the projector is the goal in the centre of the impact map
+- Ask them to ensure that any impacts they propose relate to that objective -- all other impacts fall into 'Not Now'
+- Ask them to ensure that any deliverables they propose connect to a behaviour change relevant for the business objective -- all other deliverables fall into 'Not Now'
+
+Go around the room, and help the participants define good impacts. Challenge things on their impact maps, by asking "How does this relate to the objective...", "How does this help this impact..." to force them to think harder.
+
+The critical impacts that the participants should discover with your help are 'engage more frequently' (or any variant of that, such as 'come back more') and 'consume more content' (again, any variant is OK, such as 'view more pages', 'stay longer' etc). 
+
+The key user segment they should discover are 'existing users with mobile devices'. This milestone is not yet about addressing new users, but let groups also propose ideas about that if they want, it will be useful for later discussion. 
+
+Try to get the groups to discover these ideas on their own, by probing questions. Eg if they propose 'Use our iphone app', ask 'how does that help us protect advertising revenue on mobile?". Sometimes they'll need a few more probing questions to arrive to "come back more frequently" or "stay longer".
+
+Here are some of the typical problem areas that the participants will need help with:
+
+- People will mix deliverables and impacts. If you see a group doing that, ask them to think about impacts as something that other people do, and deliverables as something that 'we' (the delivery organisation) does. 
+- People will suggest impact that are not behaviour changes. Use the ideas form the behaviour change brainstorming exercise to help them.
+- People will suggest impacts that do not help the current objective (eg buying more...). Challenge them on this, and say that anything not directly related to improving advertising revenue is a 'Not Now' idea. 
+- People will suggest deliverables that do not help an impact, and connect it to that. (Eg e-ticketing connected to helping users come back more frequently)
+- People will often suggest a specific software solution on the impact level (eg 'use our iphone app'). Try to get them to think about what that actually achieves (eg engage more frequently).
+
+
+#### Discussion guidelines
+
+Compare key ideas of various solutions, especially focusing on all the various alternatives to writing an iPhone app. Some typical suggestions are a small mobile web site, rewriting the homepage to be more mobile friendly, rewriting a particular popular web site section (eg artist pages) to be more mobile friendly and so on.
+
+Point out how the map structure makes it easy to prioritise Now/Not Now; compare that to typical MoSCoW prioritisation where 90% always ends up in the 'Must' category. Now/Not Now helps to avoid that problem, because everything can politically stay a good idea/must, just not the right idea for the current milestone.
+
+Challenge the participants to think small. If someone proposed rewriting a mobile web site, say that this will be a few months of work. How would they slice that? 
+
+Finally, show the slide on story splitting from the [Exercises](slides/exercises.ppt) presentation. Explain how an impact map helps to find smaller slices by allowing people to divide a segment of users (eg a mobile web site for one city) or a segment of change (eg instead of getting people to come back twice as often, do something that makes them come back 10% more often, or come back more often over the next month, that's already valuable).
+
+Explain how those ways of splitting stories are often more useful than trying to divide by technical layers.  For example, limiting to one city, and only the next month or so of content, it may be possible to offer a static mobile web site and avoid any kind of integration challenges. Choose your most popular location, and this becomes incredibly valuable.
+
+### Exercise 5: Propose new delivery plans
+
+This is the final exercise of the half-day variant. In the full-day variant, this is a key learning point that helps the participants revisit the new ideas. In the Training from the back of the room terminology, this is in the 'Conclusions' quadrant.
+
+#### Learning objectives
+
+* How impact maps make prioritisation easy
+* How impact maps help with dividing stories into smaller stories so that they are still valuable
+* How plans based on impact maps are easy to compare, because they expose assumptions and provide focus (as opposed to being impossible to compare after the first exercise)
+
+#### Facilitation objective
+
+* Get groups to compare their new knowledge to the starting point of the workshop, where they also proposed plans
+
+#### Mechanics
+
+Ask the participants to propose a new release plan for 4-5 iterations, by considering the ideas from their impact maps.
+
+- The business objective is still the same as before
+- They should split large stories either by segment or scale of impact until each iteration delivers something clearly valuable
+- It's OK to come up with new ideas based on the impact map, but they should make sure to focus on Now vs Not Now - prioritise one impact and deliver that first
+
+#### Discussion guidelines
+
+If leading a smaller workshop, get individual groups to present their plans, but keep it quick and fluid so you can complete the review in 10 minutes. 
+
+If leading a larger workshop, get people to walk around and look at the plans from other groups for five minutes, and then point out some key differences between the groups. 
+
+Compare the new plans to the plans proposed originally in the morning, and invite people to comment on their original arguments why their plans were good. Eg find a plan that was justified as 'focused' or 'quick' but actually spent most of the time on sales-related topics. 
+
+Lead a discussion on how it's now possible to actually compare and evaluate plans. The context provided by the business objective in the centre of an impact map, plus the impacts that are directly related to that, helps people evaluate if something is a good plan and guide the delivery.
+
+### Exercise 6: Impact map for call centre load
+
+### Exercise 7: Impact map for branding
 
 ## Presentation guides
 
