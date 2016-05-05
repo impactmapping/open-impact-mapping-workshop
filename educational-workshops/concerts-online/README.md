@@ -26,4 +26,5 @@ The participants should have the basic knowledge of iterative delivery (eg worki
 
 * [Facilitation guide](facilitation-guide.md) - how to lead the workshop
 * [Logistics guide](logistics-guide.md) - how to set up the facilities
-
+* [Handouts for participants](handouts)
+* [Slides for presenters](slides)
