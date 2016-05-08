@@ -379,9 +379,39 @@ Ask the groups to revisit their statements on why their plans were the best. Wou
 
 ## Presentation guides
 
+To keep the workshop dynamic, it's best to keep the presentation first two blocks short and just use them to introduce new concepts. It's best if you can use stories from your own experience to support the key points, but if not, then look at [Adaptive Planning Beyond User Stories](https://gojko.net/2014/11/07/user-stories-adaptive-planning/) from GOTO 2014. 
+
+Use the provided [Powerpoint slides](slides) as an inspiration, and don't feel obliged to keep them -- your presentations are there to help people connect the dots. As long as you can achieve the presentation goals with your stories, any slides (or no slides) will do.
+
 ### Presentation: Behaviour Change As Measurement Of Value
+
+The goal of this presentation is to introduce behaviour changes as a way to describe and measure value. The [Behaviour Change Presentation Slides](slides/behaviour-change.ppt) is good for this part, as you can use it to ask participants to think about defining value.
+
+1. First slide introduces a common user story structure -- ask the participants how they would know if this is valuable or not
+2. The second slide zeroes in on the part of the story that's supposed to contain the value, but it's not precise -- there is no way to tell if it succeeded or failed.
+3. The third slide contains the answer to "how differently" that helps people define value sensibly
+
+Check the Adaptive Planning presentation around 30th minute for an example of how to introduce this. The key is to explain that a change in someone's behaviour/way of working is a potentially useful outcome. We can observe it (or the lack of it), we can expect it to happen on a shorter time scale, and it's possible to talk about it independently of the solutions.
+
+If you have more time, then it's useful to introduce Anthony Ulwick's conclusions from [What Customers Want](http://amzn.to/1Ojb5Do) and Robert Brinkerhoff's conclusions from [The Learning Alliance](http://amzn.to/1WhlDdP).
 
 ### Presentation: Impact map structure
 
+The goal of this presentation is to introduce the structure of impact maps as something that will tie together the concepts that the participants worked on up to this point of the workshop. The [Impact Map Structure](impact-map-structure.ppt) presentation contains two slides:
+
+1. The first slide shows the various concepts as a hierarchy, business goals can be delivered through multiple changes in business processes or customer behaviour, then those can be achieved by multiple user stories. Talk about how for a real roadmap, we need to be able to see the connection between all these ideas. If you need help with this, see the Adaptive Planning presentation around minute 36 for an explanation of the various levels of the diagram on the first slide.
+2. The second slide introduces the impact map as a way to visually connect goals through impacts to deliverables. Introduce this as a way to visually map out the potential options from the previous slide, and show what contributes to what. 
+
+Point out that the first slide didn't have the level of actors, but that it's good to group impacts under actors because that might help with prioritisation (generally, valuable initiatives will focus on one customer segment at a time), and inspire teams to come up with more ideas (if there is an impact on an actor that could help with a business goal, perhaps some other impacts on them can help as well. For example, we can get people to buy more frequently, or to buy larger orders).
+
+Point out that an impact map is just a conversation technique that helps with visualising those ideas, it's collaborative, visual and fast. Not rocket science.
+
+If you have time, you can visually show a progression of building an impact map.
+
 ### Presentation: How impact maps fit in with delivery
 
+The goal of this presentation is to tie up all the new concepts with what the participants do in their day-to-day jobs. The [Delivery Process](slides/delivery-process.ppt) contain three slides:
+
+1. The first shows how the typical user story format maps to the levels of an impact map. Talk about how this helps to start structuring the map from existing stories, but also how it helps to spot pet features and user stories that do not belong to a map (the 'not now' stories). 
+2. The second shows how each connection of the map shows assumptions. Talk about how requirements/roadmap plans rarely show assumptions, they mostly show work to be done. Impact maps also show assumptions, which makes them great for lean-startup style delivery, and deciding on how much to invest in a particular area (eg with huge assumptions, it might be best to first build a small prototype). It's critical to point out here that we can start reporting on the impacts/outcomes achieved during delivery as an alternative to using story points as a measurement of value.
+3. The third slide shows the four types of contexts where impact maps are used differently. Check out [Getting the most out of impact mapping](http://www.infoq.com/articles/most-impact-mapping) on InfoQ and [a summary](https://gojko.net/2014/11/17/how-to-get-the-most-out-of-impact-mapping/) on gojko.net for inspiration on how to cover this.
