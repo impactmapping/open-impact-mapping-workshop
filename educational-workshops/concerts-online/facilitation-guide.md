@@ -45,10 +45,10 @@ For illustrative purposes, this assumes that the workshop starts at 9AM. Adjust 
 - 11:45 Exercise: [Propose new delivery plans](#exercise-5-propose-new-delivery-plans)
 - 12:00 Discussion session: present new plans
 - 12:30 lunch break
-- 13:30 Exercise: [Impact map for reducing the call centre load](#exercise-5-impact-map-for-call-centre-load) 
+- 13:30 Exercise: [Impact map for reducing the call centre load](#exercise-6-impact-map-for-call-centre-load) 
 - 14:10 Discussion session: groups present impact maps
 - 14:25 coffee break
-- 14:35 Exercise: [Impact map for branding](#exercise-6-impact-map-for-branding)
+- 14:35 Exercise: [Impact map for branding](#exercise-7-impact-map-for-branding)
 - 14:55 Discussion session: groups present impact maps
 - 15:10 Presentation: [How impact maps fit in with delivery](#presentation-how-impact-maps-fit-in-with-delivery)
 - 15:30 Q&A
@@ -189,7 +189,7 @@ Finally, discuss how addressing different impacts calls for completely different
 
 ### Exercise 4: Impact map for advertising revenue
 
-In this exercise, the participants create their first impact map by bringing together deliverables under behaviour changes, and refining the plans. For a half-day session, this is the crucial part, falling into the "Concrete Practice" quadrant of training from the back of the room). 
+In this exercise, the participants create their first impact map by bringing together deliverables under behaviour changes, and refining the plans. For a half-day session, this is the crucial part, falling into the 'Concrete practice' quadrant of 'Training from the back of the room'). 
 
 #### Learning objective
 
@@ -274,6 +274,77 @@ Compare the new plans to the plans proposed originally in the morning, and invit
 Lead a discussion on how it's now possible to actually compare and evaluate plans. The context provided by the business objective in the centre of an impact map, plus the impacts that are directly related to that, helps people evaluate if something is a good plan and guide the delivery.
 
 ### Exercise 6: Impact map for call centre load
+
+In a full-day variant, this is another exercise falling into the 'Concrete practice' quadrant in the 'Training from the back of the room' terminology. The previous impact mapping exercise (for advertising revenue) starts with a relatively concrete, and well defined goal, that helps with the prioritisation. In real-life situations, it's much more likely that people will start with vague, incorrect and misleading goal definitions, and part of the challenge is helping to refine the goal. 
+
+This exercise gives the participants an experience of refining a goal. The original goal statement will be relatively precise, but misleading, and they need to discover the real goal. (but don't tell the participants that upfront).
+
+This exercise is longer than the previous mapping exercises because it consists of two parts -- in the first part, the participants typically struggle with planning but discover that the goal is wrong. When several groups reach that conclusion, you can pause for a short discussion, redefine the goal, and let the groups continue working on a new goal. The first part should take no longer than 10-15 minutes with your guidance, so you're left with 5 minutes for a quick discussion session on the goal, and 20 minutes for the final mapping part.
+
+#### Learning objectives
+
+* Initial goal definitions often need refinement
+* Concrete numbers help to refine goals
+* Whenever a single part of the map is well defined, it helps to refine the concepts connected to it on both sides (so a well defined impact can help to refine both the intended deliverables and the goal statement)
+* Sometimes software isn't the right solution, and business activities can also be proposed on impact maps if they create the same impact
+
+#### Facilitation objectives
+
+* Get at least a few groups challenge the initial goal statement in the first part
+* Get at least one group to include business process changes (without any software changes) to their impact map in the second part
+
+#### Mechanics
+
+##### part 1
+
+* Explain that maps help groups define deliverables based on goals, so the maps they created for advertising revenue would look completely differently if another goal was chosen
+* Say that the advertising revenue plan went OK, and that the stakeholders decided that the next big thing is to deal with call centre load problems. Show slide 8 in the exercises presentation ('We want to reduce the load on our call centre...') and explain that large concerts often create a big problem for the call centre. For example, if the tickets for a large event start selling on Monday at 9AM, people might not be at home close to a desktop computer. If people are out of their home, they might try buying through the web browsers on their mobile phones, but the mobile internet is unreliable, and the site is all optimised for desktop work (Flash again..., menu navigation is cumbersome, shopping cart takes several steps...). Because the tickets tend to sell out quickly for important events, most fans will try to call the call centre instead, which creates massive problems. Long waiting queues build up, people calling about the popular event get angry because they wait and might miss out on tickets, and people calling about other things get angry because it just takes too long to reach us. 
+* Point out that with big concerts like that we normally have an exclusive contract so we can't sell more tickets either way, but long queues prevent sales for other events at the same time and make people angry. Also, the call centre staff is under insane pressure during those times.
+* If anyone asks for numbers, give numbers around event sizes and call centre processing times that would create a significant backlog in sales. Processing times are really important, but don't point those out specially, sandwich that in between some other numbers. For example:
+  * popular concerts often have 10K-20K tickets
+  * a single operator can sell one ticket every five minutes 
+  * we have 300 call centre operators
+* Ask the groups to create an impact map for that problem. Point again to the 'iPhone app' idea from the start, saying that one of the stakeholders is insisting that an iphone app with a quick buy button is the solution. The groups should create a map that either confirms that or proposes a viable alternative
+* The participants should start with the information they know - the goal and the deliverable - and fill in the two missing levels in the map. After they've done that, they can propose alternatives, slice deliverables and so on
+* Ask the groups to write with marker pens on flip charts so you can easily compare the maps
+* DO NOT GIVE AWAY THAT THE GOAL NEEDS TO BE REFINED!
+* go around and get the groups to define a good impact.
+  * If they got stuck on slicing deliverables, point out that the impact is still missing and the groups should focus on defining that
+  * If they defined an impact, challenge if that really helps to reduce call centre load. If not, they can either refine the goal or change the impact
+  * If they define an impact as 'buy using iphone'/'buy using mobile phone' suggest that the users can already do that... they can call the call centre from their iphone/mobile phone; remind the groups that impacts are about behaviour changes, and ask them to define the behaviour change. 
+* The impact that the groups should discover is 'buy using alternative channels' or 'buy more without calling the call centre', or 'buy tickets for peak events without calling the call centre'. Once they discover that impact, get them to think about the goal. Yes, this will help to reduce call centre load, but the easiest way to reduce load is to just turn off the call centre... Can they refine the goal? What else is missing that would disqualify shutting down the call centre as a solution? What other measurements are we missing?
+* The goal the participants should discover is 'increase peak time sales', or 'increase capacity to sell at peak times', or 'sell more tickets per hour for large concerts'
+* Once a few groups discover this (but before the entire room gets there), stop the group work and start a quick discussion on the goal. Ask people to shout out their goal definitions and again repeat the idea about shutting down the call centre -- if reducing the load is the real goal, that's an easy fix. What would be missing then? (ticket sales)
+
+##### part 2
+
+* Explain how concrete numbers often help to refine goals. Once some measurements are there, look for more measurements that would create good constraints for the solution. The load isn't really that important, as long as we can sell tickets quickly
+* Agree on a concrete measurement for the goal. Eg, according to the original numbers, we can sell about 3600 tickets per hour at peak time through the call centre. We can sell significantly more through web, but people aren't using it. So one goal definition would be "increase peak time capacity by 5x"
+* Get the groups to create new maps. Invite them to think about other actors or impacts
+* Go around and help the groups refine their impacts
+* Some interesting things that they need to discover are:
+  * call centre operators could sell tickets faster
+    * potential solutions for that are semi-automated sales workflows, selling tickets in batches (eg for a whole group at once) or shortening the average call time by revisiting the sales workflow
+  * customers could buy tickets using many alternative channels
+    * eg SMS
+  * customers could buy tickets at different times
+    * eg pre-register
+* Ask the groups to come up with small deliverables by reducing the customer segment (eg for one big concert, for just one location, ...) or by reducing the scale of change (eg find something that helps call centre operators sells 20% faster, instead of 5000% faster immediately)
+* Once a few groups have discovered those ideas (not necessarily a single group to discover all, it's even better if different groups discover different ideas), lead a final discussion on the solutions
+
+#### Discussion guidelines
+
+If leading a smaller workshop, get individual groups to present their plans, but keep it quick and fluid so you can complete the review in 10 minutes. 
+
+If leading a larger workshop, get people to walk around and look at the plans from other groups for five minutes, and then point out some key differences between the groups. 
+
+When talking about the call centre workflow changes, talk about the zone of control and the sphere of influence. If the call centre is 100% under the control of the group planning work, changes to the call centre are a deliverable. If the call centre is under the control of a different organisation, or even a department, those might be impacts, and we can propose things under our control that can impact that.
+
+Point out at "sell tickets faster" and suggest that the call centre might be cross-selling things. In that case, just stopping cross-selling during peak times is a pretty good solution that helps immediately, and doesn't require any software changes.
+
+Point out how it's now possible to evaluate proposed solutions against expected cost. Eg hiring more people for the call centre can solve the same problem. If we can't propose a software solution that is significantly cheaper, we should focus on building some other software instead and solve this as a HR problem. 
+
+Point out how there are a lot of alternative solutions to an iPhone app (eg SMS purchases, or a separate web site for handling quick ticket sales on mobiles, with a link from the homepage during peak times). 
 
 ### Exercise 7: Impact map for branding
 
