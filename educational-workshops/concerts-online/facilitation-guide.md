@@ -25,8 +25,8 @@ For illustrative purposes, this assumes that the workshop starts at 9AM. Adjust 
 - 11:30 Exercise: [Propose new delivery plans](#exercise-5-propose-new-delivery-plans)
 - 11:50 Discussion session: present new plans
 - 12:00 Presentation: [How impact maps fit in with delivery](#presentation-how-impact-maps-fit-in-with-delivery)
-- 12:20 Q&A
-- 12:30 stop
+- 12:20 Quick Questions & Answers session
+- 12:30 Stop
 
 
 ### Full-day guideline timings
@@ -51,7 +51,7 @@ For illustrative purposes, this assumes that the workshop starts at 9AM. Adjust 
 - 14:35 Exercise: [Impact map for branding](#exercise-7-impact-map-for-branding)
 - 14:55 Discussion session: groups present impact maps
 - 15:10 Presentation: [How impact maps fit in with delivery](#presentation-how-impact-maps-fit-in-with-delivery)
-- 15:30 Q&A
+- 15:30 Questions & Answers session
 - 16:00 stop
 
 ## Group considerations
@@ -295,7 +295,7 @@ This exercise is longer than the previous mapping exercises because it consists 
 
 #### Mechanics
 
-##### part 1
+##### Part 1
 
 * Explain that maps help groups define deliverables based on goals, so the maps they created for advertising revenue would look completely differently if another goal was chosen
 * Say that the advertising revenue plan went OK, and that the stakeholders decided that the next big thing is to deal with call centre load problems. Show slide 8 in the exercises presentation ('We want to reduce the load on our call centre...') and explain that large concerts often create a big problem for the call centre. For example, if the tickets for a large event start selling on Monday at 9AM, people might not be at home close to a desktop computer. If people are out of their home, they might try buying through the web browsers on their mobile phones, but the mobile internet is unreliable, and the site is all optimised for desktop work (Flash again..., menu navigation is cumbersome, shopping cart takes several steps...). Because the tickets tend to sell out quickly for important events, most fans will try to call the call centre instead, which creates massive problems. Long waiting queues build up, people calling about the popular event get angry because they wait and might miss out on tickets, and people calling about other things get angry because it just takes too long to reach us. 
@@ -347,6 +347,35 @@ Point out how it's now possible to evaluate proposed solutions against expected 
 Point out how there are a lot of alternative solutions to an iPhone app (eg SMS purchases, or a separate web site for handling quick ticket sales on mobiles, with a link from the homepage during peak times). 
 
 ### Exercise 7: Impact map for branding
+
+This is the final exercise of the full-day session. It's designed to provide a bit of fun at the end, and a kind of a closure. The impacts maps that the groups create in this exercise will finally feature an iPhone app as the right solution, though the apps are typically significantly different from the ones suggested in the morning (they won't have anything to do with sales or advertising, so pretty much all the stories people proposed initially would be irrelevant).
+
+You can safely skip this session if the previous exercises/discussions slipped and you're running late. 
+
+#### Learning objectives
+
+* No particular new knowledge - just practising the impact mapping concepts a bit more
+
+#### Facilitation objectives
+
+* Get the groups to come up with ideas for an iPhone application, but significantly different from the ideas they proposed this morning, and allow them to compare the two
+
+#### Mechanics
+
+1. Introduce the exercise as another example how a different goal produces different results, and show slide 9 from the exercises presentation ('People buy silly stuff on the app store').
+2. Explain that the company has a good brand, and a loyal customer base, so now that we solved the key advertising and sales problems, the stakeholders would like to open a new revenue stream by exploring 'virtual merchandise' or digital services that we could monetise; the iPhone is the chosen platform because in-app purchases are significantly higher in the iOS ecosystem than on Android.
+3. Point out that the business objective for this map is vague and the plans will mostly explore business assumptions and prove that there is a market for something, it would be unwise to invest a lot of money into development until we can prove that.
+4. Ask the groups again to create an impact map: start with the goal and the deliverable, and try to come up with the impacts and the actors, then propose alternative ideas
+5. Visit the groups and try to get them to define good impacts first (a good impact would be 'start buying access to our digital services')
+6. If you spot impacts or deliverables around sales, challenge the group and inquire why that would help with the goal. 
+
+#### Discussion guidelines
+
+Get the groups to present ideas, they don't have to really be structured as iteration plans, but more as areas they would explore. Collect ideas that are worth looking into, and discuss what the whole room would propose as the first set of experiments.
+
+Compare those ideas to the original plans proposed by the groups. Point out how they now finally have an iPhone app in the deliverable plan, but it's completely different from the ones originally proposed.
+
+Ask the groups to revisit their statements on why their plans were the best. Would they still claim that for their original plans? Point out how the three maps they created actually allow people to have a good argument about various plans and proposals, and how it's easier to have that discussion now than in the morning.
 
 ## Presentation guides
 
