@@ -28,3 +28,11 @@ The participants should have the basic knowledge of iterative delivery (eg worki
 * [Logistics guide](logistics-guide.md) - how to set up the facilities
 * [Handouts for participants](handouts)
 * [Slides for presenters](slides)
+
+## Usage rights
+
+Copyright (c) Gojko Adzic, 2016
+
+You can use these materials freely, even for commercial use, under the [Creative Commons Attribution 4.0 International (CC BY 4.0)](http://creativecommons.org/licenses/by/4.0/) license. 
+
+Please note that the license explicitly prohibits suggesting, in any way, that the licensor endorses you. You can not use the names 'Neuri Consulting' or 'Gojko Adzic' to promote your services or usage of these materials, or imply that you were in any way supported, certified or endorsed by the authors of this workshop. 
