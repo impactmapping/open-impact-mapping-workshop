@@ -29,6 +29,6 @@ The participants will not use computers during this workshop. Ideally, the table
 
 The following materials should be printed, one for each participant
 
-* [Impact Mapping Cheat Sheat](handouts/cheatsheat.doc)
+* [Impact Mapping Cheat Sheat](handouts/cheatsheet.doc)
 * (Optional) [The Impact Mapping Poster](handouts/poster-35x23inch.pdf) This is a huge poster – print size is 23 inch x 35 inch (can also be A1 format). Please ensure that it is printed in right size and full colour, and do not print small A4/A5 copies or anything like that, it's better not to have small versions at all.  If you print the poster, then please provide rubber bands or something else for participants to fold posters with when they take them home 
 * (Optional) [The Impact Mapping Book](https://www.impactmapping.org/book.html) 
