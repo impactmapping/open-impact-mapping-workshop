@@ -23,7 +23,7 @@ The participants will work in groups of 4-5. Each group will need:
 * A set of whiteboard markers of various colours.
 * Pens and notepads for each participant to write on
 
-The participants will not use computers during this workshop. Ideally, the tables should not have computers on them. If the workshop facilities have fixed computers that cannot be removed for the duration of the workshop, at leastensure that monitors do not obstruct the view and that the participants have sufficient space on tables to write on paper and collaborate.
+The participants will not use computers during this workshop. Ideally, the tables should not have computers on them. If the workshop facilities have fixed computers that cannot be removed for the duration of the workshop, at least ensure that monitors do not obstruct the view and that the participants have sufficient space on tables to write on paper and collaborate.
 
 ## Printed materials
 
