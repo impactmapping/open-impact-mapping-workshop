@@ -397,7 +397,7 @@ If you have more time, then it's useful to introduce Anthony Ulwick's conclusion
 
 ### Presentation: Impact map structure
 
-The goal of this presentation is to introduce the structure of impact maps as something that will tie together the concepts that the participants worked on up to this point of the workshop. The [Impact Map Structure](impact-map-structure.ppt) presentation contains two slides:
+The goal of this presentation is to introduce the structure of impact maps as something that will tie together the concepts that the participants worked on up to this point of the workshop. The [Impact Map Structure](slides/impact-map-structure.ppt) presentation contains two slides:
 
 1. The first slide shows the various concepts as a hierarchy, business goals can be delivered through multiple changes in business processes or customer behaviour, then those can be achieved by multiple user stories. Talk about how for a real roadmap, we need to be able to see the connection between all these ideas. If you need help with this, see the Adaptive Planning presentation around minute 36 for an explanation of the various levels of the diagram on the first slide.
 2. The second slide introduces the impact map as a way to visually connect goals through impacts to deliverables. Introduce this as a way to visually map out the potential options from the previous slide, and show what contributes to what. 
