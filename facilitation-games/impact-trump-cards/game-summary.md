@@ -21,17 +21,17 @@ This is a competitive game, in which points are awarded for creativity and think
 The participants will work in groups of 4-6. Each group should have:
 
 - a table to sit around - ideally cabaret style seating
-- a set of pre-printed [card templates](handouts/card-templates.doc)
+- 5-10 sets of pre-printed [card templates](handouts/)
+- either cut out the cards from the templates before the session, or provide scissors to each group so they can do it themselves
 - ball pens or thin marker pens. Avoid thick markers or flipchart pens because the participants will not be able to write with them clearly on the cards
 - a pack of blu-tack or some other light adhesive
 - enough space to move around the table/flipchart unobstructed by other groups.
-
-
-Each participant will need a [cheat sheet](handouts/cheat-sheet.doc)
+- a [cheat sheet](handouts/cheatsheet.doc)
 
 The facilitator will need a projector, and a projection screen/wall clearly visible to all the participants from the tables where they will sit. Avoid rooms with pillars blocking the view to the main projection space.
 
 For coordinating discussions, you'll need one large sheet of paper or a wall area where the participants can stick cards with blu-tack
+
 ## Pre-requisites
 
 This game requires the facilitators to prepare:
