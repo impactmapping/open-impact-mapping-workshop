@@ -6,3 +6,5 @@ The purpose of this facilitation game is to spark divergent, creative thinking a
 The best time to run this is before drawing the first draft of the impact map.
 
 * [Game Summary](game-summary.md)
+* [Handout materials](handouts)
+
