@@ -37,7 +37,7 @@ Each participant will need a printout cheat-sheet.
 
 This is a group exercise around a large sheet of paper, and all participants are encouraged to draw simultaneously. Group sizes of 5-6 should allow for good discussion and divergent thinking. 
 
-Because this game facilitates divergent thinking, and uses uses a rich visual metaphor, don't be too strict on participants if they go off script and start adding additional ways for the city to flourish or be in danger.
+Because this game facilitates divergent thinking, and uses a rich visual metaphor, don't be too strict on participants if they go off script and start adding additional ways for the city to flourish or be in danger.
 
 The game evolves through two diverge/merge cycles, with groups working individually during the divergent phase, and then reviewing results together during the merging phase.
 
