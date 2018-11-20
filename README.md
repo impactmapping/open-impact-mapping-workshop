@@ -4,7 +4,7 @@ Facilitation exercises for teaching/running impact mapping sessions.
 
 ## Educational Workshops
 
-Training materials and facilitation guides for for teaching groups about impact mapping basics:
+Training materials and facilitation guides for teaching groups about impact mapping basics:
 
 * [Concerts Online](educational-workshops/concerts-online) - interactive introductory workshop best for groups up to 30-40 people, but also OK for larger groups (Gojko once led a workshop with a group of 150 people at a conference).  Suitable for a half-day or a full-day teaching session. 
 
