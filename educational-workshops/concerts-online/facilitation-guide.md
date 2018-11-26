@@ -80,7 +80,7 @@ This exercise is a set-up for later exercises, there is no particular learning o
 
 Start by explaining the purpose of the exercise. As far as the participants are concerned, _this is to provide a common baseline they can use for later comparison_. 
 
-Next, introduce introducing the 'Concerts Online' company. You can show the first two slides from the [Exercises](slides/exercises.ppt) presentation while introducing the domain. Here are the key points to talk about:
+Next, introduce the 'Concerts Online' company. You can show the first two slides from the [Exercises](slides/exercises.ppt) presentation while introducing the domain. Here are the key points to talk about:
 
 * First slide
   * This is a successful business, with a horrible legacy system
