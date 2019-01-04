@@ -64,7 +64,7 @@ This workshop works best up to 30-40 people, although you can also do it with a 
 
 ## Exercise guides
 
-### Exercise 1: Initial Plans
+### Exercise 1: Initial Plans
 
 This is a warm-up exercise. In the 'Training from the back of the room' terminology, it is a Connections-type exercise. The objective is give the participants a bit of time to form groups, connect their current knowledge to the problem, and learn about the exercise business domain. Also, the exercise helps to provide a baseline that you can use for comparison later, after the [Propose new delivery plans](#exercise-5-propose-new-delivery-plans) exercise.
 
