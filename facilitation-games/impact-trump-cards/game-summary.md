@@ -12,7 +12,7 @@ Generate a list of potential impacts to consider for an impact map; secondary ob
 
 ## Structure
 
-This is an exercise for a small group (4-6) of participants. Larger groups of people can be split into several smaller groups, with a final discussion that brings all the results together. Ideally, make each group contain an even number of participants, so that a voting session will always produce a majority (with four people in the group, three participants will vote on the proposed cards of the fourth person -- an odd number of people voting ensures that there is a clear decision). 
+This is an exercise for a small group (4-6) of participants. Larger groups of people can be split into several smaller groups, with a final discussion that brings all the results together. Ideally, make each group contain an odd number of participants, so that a voting session will always produce a majority (with four people in the group, three participants will vote on the proposed cards of the fourth person -- an odd number of people voting ensures that there is a clear decision). 
 
 This is a competitive game, in which points are awarded for creativity and thinking out of the box, similar to the classic card trump games. Each group should sit around a table (ideally cabaret style seating), and the participants simultaneously create playing cards, arrange them in stacks, and compete to collect stacks of cards. 
 
