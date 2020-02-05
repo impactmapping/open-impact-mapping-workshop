@@ -61,7 +61,7 @@ Merging phases should be timeboxed to 10 minutes. The purpose of the merge phase
   * Yellow/Orange for the indirect polluters
 * Hand out the cheat-sheet to all the participants
 
-### First divergent session - revenue streams
+### First divergent session - revenue streams
 
 Get the participants to draw a city in the middle of their paper sheet. Then ask them to draw streams of bringing clean water to the city, representing various revenue/sales/contribution channels, using the blue colour. They should write the names of revenue channels on the lines. Encourage participants to use line thickness to signify importance
 
