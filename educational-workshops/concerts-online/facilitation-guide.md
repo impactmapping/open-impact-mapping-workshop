@@ -133,7 +133,7 @@ Create a list of arguments why proposed plans are good, so you can refer back to
 * Plans based on features are impossible to compare; anything can be justified when there are no clear objectives
 * It's impossible to say whether any of the proposed plans are good or bad in isolation
 
-#### Mechanics
+#### Mechanics
 
 Announce that, now that there are several plans, the business stakeholders can't decide which one to fund. The groups will get five minutes to prepare a one-minute explanation why their plan should be funded. 
 
@@ -187,7 +187,7 @@ Suggest that you can aim at achieving all those behaviour changes, but not every
 
 Finally, discuss how addressing different impacts calls for completely different plans -- for example, choose some sales related impacts and ask the participants to suggest some important stories for that. Then select something around advertising or visiting frequently/visiting more, and ask them to suggest some stories for that.
 
-### Exercise 4: Impact map for advertising revenue
+### Exercise 4: Impact map for advertising revenue
 
 In this exercise, the participants create their first impact map by bringing together deliverables under behaviour changes, and refining the plans. For a half-day session, this is the crucial part, falling into the 'Concrete practice' quadrant of 'Training from the back of the room'). 
 
@@ -245,7 +245,7 @@ Explain how those ways of splitting stories are often more useful than trying to
 
 This is the final exercise of the half-day variant. In the full-day variant, this is a key learning point that helps the participants revisit the new ideas. In the Training from the back of the room terminology, this is in the 'Conclusions' quadrant.
 
-#### Learning objectives
+#### Learning objectives
 
 * How impact maps make prioritisation easy
 * How impact maps help with dividing stories into smaller stories so that they are still valuable
@@ -273,7 +273,7 @@ Compare the new plans to the plans proposed originally in the morning, and invit
 
 Lead a discussion on how it's now possible to actually compare and evaluate plans. The context provided by the business objective in the centre of an impact map, plus the impacts that are directly related to that, helps people evaluate if something is a good plan and guide the delivery.
 
-### Exercise 6: Impact map for call centre load
+### Exercise 6: Impact map for call centre load
 
 In a full-day variant, this is another exercise falling into the 'Concrete practice' quadrant in the 'Training from the back of the room' terminology. The previous impact mapping exercise (for advertising revenue) starts with a relatively concrete, and well defined goal, that helps with the prioritisation. In real-life situations, it's much more likely that people will start with vague, incorrect and misleading goal definitions, and part of the challenge is helping to refine the goal. 
 
