@@ -1,4 +1,4 @@
-#Logistics guide for Concerts Online, an interactive impact mapping workshop
+# Logistics guide for Concerts Online, an interactive impact mapping workshop
 
 This guide explains how to set up the facilities for the workshop. If you're working with a third-party conference organiser or educational provider, send them this upfront so 
 they can arrange everything the way you need.
